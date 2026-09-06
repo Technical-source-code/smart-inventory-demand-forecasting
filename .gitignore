@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local datasets
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Trained model files
+models/*.pkl
+models/*.joblib
+
+# Local outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
